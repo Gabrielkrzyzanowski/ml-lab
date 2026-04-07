@@ -1,0 +1,13 @@
+# installers
+*.sh
+
+# environments
+env/
+*.env
+
+# python
+__pycache__/
+*.pyc
+
+# data (optional later)
+data/
