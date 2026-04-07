@@ -17,10 +17,15 @@ This repository serves both as a learning diary and as a foundation for future, 
 
 ml-lab/
 ├── data/ # Datasets (not tracked if large)
+
 ├── notebooks/ # Exploratory analysis and experiments
+
 ├── src/ # Reusable code (models, utilities)
+
 ├── models/ # Saved trained models
+
 ├── environment.yml # Reproducible environment setup
+
 └── README.md
 
 ---
